@@ -93,6 +93,10 @@ body{margin:0;padding:0;font-family: "FuturaLTBook", sans-serif;}
 	padding: 20px;
 }
 
+.footer .section p{
+	padding: 10px 40px;
+}
+
 .clearfix{
 	clear: both;
 }
